@@ -13,3 +13,6 @@ A private, secure, and local Retrieval-Augmented Generation (RAG) assistant buil
 - 100% Local & Private (Runs completely offline via Ollama)
 - Dynamic Reference Tracing (Displays exact page numbers and text excerpts)
 - Zero Dependency Crashes (Optimized native Streamlit UI components)
+
+## ✨ Live Demo Video
+https://github.com/user-attachments/assets/69e7b400-4123-44a4-811a-8b3282b387bf
